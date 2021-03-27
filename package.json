@@ -1,0 +1,20 @@
+{
+  "name": "ionwhatsapp",
+  "version": "1.0.0",
+  "description": "bot whatsapp",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "raqael fisabillah ramadhan",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "@adiwajshing/baileys": "^3.4.1",
+    "express": "^4.17.1",
+    "qr-image": "^3.2.0",
+    "qrcode": "^1.4.4",
+    "socket.io": "^4.0.0"
+  }
+}
